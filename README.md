@@ -1,5 +1,6 @@
 <small>**🚀 Explore my digital universe: [maximilian.hagn.network](https://maximilian.hagn.network)!</small>**
 
+
 # Homeserver Docker CI Architecture
 
 ![Thumbnail](https://files.hagn.network/images/docker/thumbnail.webp)
